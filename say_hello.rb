@@ -1,5 +1,4 @@
 # Build your say_hello method here
-def say_hello (name = "Ruby Programmer")
-  "Hello #{name}!"
-  prints say_hello
+def say_hello (name)
+
 end
